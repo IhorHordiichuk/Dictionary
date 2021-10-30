@@ -29,6 +29,10 @@
 
 **умова**
 
+## Content negotiation
+
+**узгодження вмісту**
+
 ## F
 
 ## Front-end
